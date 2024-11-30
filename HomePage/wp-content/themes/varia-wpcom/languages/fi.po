@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T06:15:22+00:00\n"
+"PO-Revision-Date: 2024-03-13 14:29:20+0000\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: template-parts/content/content-none.php:16
+msgid "No Posts Found"
+msgstr "Artikkeleita ei löytynyt"
+
+#: functions.php:190
+msgid "Background"
+msgstr "Tausta"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Jatka lukemista %s"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Ostoskori"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d kohde"
+msgstr[1] "%d kohdetta"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Edellinen kuva"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Seuraava kuva"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Jatka lukemista <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Julkaissut %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Näytä lisää artikkeleita"
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Valitettavasti mitään ei löytynyt hakuehdoillasi. Kokeile uudelleen joillakin toisilla hakusanoilla."
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Seuraava artikkeli"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Seuraava artikkeli:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Edellinen artikkeli"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Edellinen artikkeli:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Suositeltu"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:42
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Muokkaa <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Uudemmat artikkelit"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Vanhemmat artikkelit"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Tulokset haulle:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Jätä kommentti<span class=\"screen-reader-text\"> artikkeliin %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Kategoria(t):"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Avainsanat:"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Kuukausittainen arkisto"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Päiväarkisto:"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "Luokittelun %s arkisto:"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Arkistot:"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Kirjoittanut"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Täysikokoinen"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Julkaistu otsikolla</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Avainsana-arkisto:"
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Kirjoittaja-arkisto:"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Vuosiarkisto:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Kategoria-arkisto: "
+
+#: image.php:58
+#: template-parts/content/content-page.php:28
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: image.php:62
+msgid "Page"
+msgstr "sivu"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Hyppää sisältöön"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Päävalikko"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Valikko"
+
+#: functions.php:255
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Alapalkki"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your footer."
+msgstr "Lisää vimpaimia tähän käyttääksesi niitä alatunnisteessa."
+
+#: functions.php:134
+msgid "S"
+msgstr "S"
+
+#: functions.php:139
+msgid "Normal"
+msgstr "Normaali"
+
+#: functions.php:140
+msgid "M"
+msgstr "M"
+
+#: functions.php:145
+msgid "Large"
+msgstr "Iso"
+
+#: functions.php:146
+msgid "L"
+msgstr "L"
+
+#: functions.php:151
+msgid "Huge"
+msgstr "Valtava"
+
+#: functions.php:152
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:180
+msgid "Secondary"
+msgstr "Toissijainen"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:75
+#: functions.php:175
+msgid "Primary"
+msgstr "Ensisijainen"
+
+#: functions.php:76
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Alapalkin valikko"
+
+#: functions.php:77
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Some-valikko"
+
+#: functions.php:133
+msgid "Small"
+msgstr "Pieni"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Yksi vastaus artikkeliiin &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s vastausta artikkeliin &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Kommentit on suljettu."
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Yksi ajatus artikkelista &ldquo;%1$s&rdquo;"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Näyttää siltä, että täällä ei ole mitään. Kokeilepa hakua?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Sivua ei löydy."

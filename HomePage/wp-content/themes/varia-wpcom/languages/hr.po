@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T06:15:08+00:00\n"
+"PO-Revision-Date: 2022-11-24 11:50:55+0000\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: template-parts/content/content-none.php:16
+msgid "No Posts Found"
+msgstr "Nije pronađen nijedan post"
+
+#: functions.php:190
+msgid "Background"
+msgstr "Pozadina"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Nastavi čitati %s"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Košarica"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d stavka"
+msgstr[1] "%d stavke"
+msgstr[2] "%d stavki"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Prethodna slika"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Sljedeća slika"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Nastavi čitati<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Objavio %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Prikaži više objava"
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nažalost, nije ništa nađeno pod traženim pojmovima. Molim da pokušate ponovo s drugim ključnim pojmovima."
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Izgleda da ne možemo pronaći ono što vam treba. Možda pretraga pomogne."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Sljedeća objava"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Sljedeća objava:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Prethodna objava"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Prethodna objava:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Istaknuto"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:42
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Uredi <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Novije objave"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Starije objave"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Rezultati pretrage za:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Ostavite komentar<span class=\"screen-reader-text\"> na %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Objavljeno u"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Oznake:"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Mjesečna arhiva: "
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y."
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Dnevna arhiva: "
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "%s arhiva:"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Arhive:"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Objavio"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Pun veličina"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Objavljeno u</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Arhiva kategorije: "
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Arhiva oznake: "
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Arhiva autora: "
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Godišnja arhiva: "
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y."
+
+#: image.php:58
+#: template-parts/content/content-page.php:28
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Stranice:"
+
+#: image.php:62
+msgid "Page"
+msgstr "Stranica"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Idi na sadržaj"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Izbornik"
+
+#: functions.php:255
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Podnožje"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your footer."
+msgstr "Ovdje dodajte widgete koji će se pojaviti u podnožju."
+
+#: functions.php:134
+msgid "S"
+msgstr "S"
+
+#: functions.php:139
+msgid "Normal"
+msgstr "Normalno"
+
+#: functions.php:140
+msgid "M"
+msgstr "M"
+
+#: functions.php:145
+msgid "Large"
+msgstr "Velika"
+
+#: functions.php:146
+msgid "L"
+msgstr "L"
+
+#: functions.php:151
+msgid "Huge"
+msgstr "Ogromno"
+
+#: functions.php:152
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:180
+msgid "Secondary"
+msgstr "Sekundarno"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions.php:75
+#: functions.php:175
+msgid "Primary"
+msgstr "Primarni"
+
+#: functions.php:76
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Izbornik u podnožja"
+
+#: functions.php:77
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Izbornik za poveznice društvenih mreža"
+
+#: functions.php:133
+msgid "Small"
+msgstr "Malo"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna misao o &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s misli o &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s misli o &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentari su isključeni."
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Jedna misao o &ldquo;%1$s&rdquo;"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Izgleda da se ništa ne nalazi na ovoj lokaciji. Možda da probate pretragu?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Tu stranicu nije moguće pronaći."

@@ -1,0 +1,14 @@
+---admin---
+user: carroverde
+password: B4O4vefB55$k&TS&ku
+
+http://localhost/greencart/HomePage/
+
+
+link login:
+http://localhost/greencart/HomePage/wp-login.php
+
+
+
+team:
+http://localhost/greencart/HomePage/index.php/team/

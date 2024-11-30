@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T06:16:14+00:00\n"
+"PO-Revision-Date: 2024-03-13 14:31:15+0000\n"
+"Language: ur_PK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:198
+msgid "Tertiary"
+msgstr "تیسرا درجہ"
+
+#: functions.php:190
+msgid "Background"
+msgstr "پس منظر"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "%s پڑھنا جاری رکھیں"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "ٹوکری"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "پچھلی تصویر"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "اگلی تصویر"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\"> \"%s\"</span> کو پڑھنا چاری رکھیں"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "شائع کردہ از%s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "مزید پوسٹیں دیکھیں"
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "معاف کیجیے گا، لیکن آپ کی تلاش کردہ اصطلاح سے کچھ نہیں ملا سکا۔ براہ مہربانی کسی اور کی ورڈز سے دوبارہ تلاش کرنے کی کوشش کریں۔"
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ایسا لگتا ہے کہ ہم وہ تلاش نہیں کر سکے جسے آپ ڈھونڈ رہے ہیں۔ شاید تلاش مدد کر سکے۔"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "اگلی پوسٹ"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "اگلی پوسٹ:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "پچھلی پوسٹ"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "پچھلی پوسٹ:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "نمایاں کردہ"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:42
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ترمیم کریں <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "تازہ ترین پوسٹیں"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "پرانی پوسٹیں"
+
+#: inc/wpcom.php:56
+msgid "Hide Homepage Title"
+msgstr "سرورق  کے عنوان کو چھپائیں"
+
+#: inc/wpcom.php:57
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "صفحے کے عنوان کو چھپانے کے یئے چیک لگائیں، اگر آپ کا سرورق ایک جامد صفحے کو ظاہر کرنے کے لیے مقرر کیا گیا ہے۔"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "تلش کے نتائج برائے:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "تبصرہ کریں <span class=\"screen-reader-text\"> از %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr "،"
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "شائع کردہ از"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "ٹیگز:"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "ماہانہ محفوظات:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y F"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "یومیہ محفوظات:"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "%s محفوظات:"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "محفوظات:"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "پوسٹ کردہ از"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "فل سائز"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">شائع از</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "ٹیگز محفوظات:"
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "مصنف کے محفوظات:"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "سالانہ محفوظات:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "زمرہ محفوظات: "
+
+#: image.php:58
+#: template-parts/content/content-page.php:28
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: image.php:62
+msgid "Page"
+msgstr "صفحہ"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "چھوڑیں اور مواد پر جائیں"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "مینو"
+
+#: functions.php:255
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "فوٹر"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your footer."
+msgstr "اپنے فوٹر میں دکھانے کے لیے یہاں ویجٹ شامل کریں۔"
+
+#: functions.php:134
+msgid "S"
+msgstr "S"
+
+#: functions.php:139
+msgid "Normal"
+msgstr "عمومی"
+
+#: functions.php:140
+msgid "M"
+msgstr "M"
+
+#: functions.php:145
+msgid "Large"
+msgstr "بڑا"
+
+#: functions.php:146
+msgid "L"
+msgstr "L"
+
+#: functions.php:151
+msgid "Huge"
+msgstr "بہت بڑا"
+
+#: functions.php:152
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:180
+msgid "Secondary"
+msgstr "ثانوی"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions.php:75
+#: functions.php:175
+msgid "Primary"
+msgstr "بنیادی"
+
+#: functions.php:76
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "فوٹر مینو"
+
+#: functions.php:77
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "سوشل لنکس مینو"
+
+#: functions.php:133
+msgid "Small"
+msgstr "چھوٹا"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "ایک خیال &ldquo;%2$s&rdquo; پہ"
+msgstr[1] "%1$s خیالات &ldquo;%2$s&rdquo; پہ"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں۔"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "&ldquo;%1$s&rdquo; پر ایک خیال"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "اس مقام پر کچھ نہیں ملا۔ شاید تلاش آپ کی مدد کر سکے؟"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "افوہ! یہ صفحہ نہیں مل سکا۔"

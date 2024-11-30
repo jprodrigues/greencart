@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T06:15:43+00:00\n"
+"PO-Revision-Date: 2023-04-10 12:26:35+0000\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: template-parts/content/content-none.php:16
+msgid "No Posts Found"
+msgstr "Bejegyzés nem található."
+
+#: functions.php:198
+msgid "Tertiary"
+msgstr "Harmadlagos"
+
+#: functions.php:190
+msgid "Background"
+msgstr "Háttér"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Bővebben: %s"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Kosár"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d elem"
+msgstr[1] "%d elem"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Előző kép"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Következő kép"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Bővebben <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Közzétéve: %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "További bejegyzések megtekintése"
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Elnézést, nem találunk a keresési feltételeknek megfelelő eredményt. Próbáljunk meg  más kulcsszóval, kifejezéssel."
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Úgy tűnik, nem találtuk meg, amit kerestünk. Talán, egy újabb keresés segíthetne."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Következő bejegyzés"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Következő bejegyzés:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Előző bejegyzés"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Előző bejegyzés:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Kiemelt"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:42
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> szerkesztése"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Újabb bejegyzések"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Régebbi bejegyzések"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Keresés eredménye ehhez a kifejezéshez:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Hozzászólás a(z) <span class=\"screen-reader-text\">%s</span> bejegyzéshez"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Kategória:"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Címkék:"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Havi összes bejegyzés:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y F"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Napi archívum:"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "%s aerchívum:"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Archívum:"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Szerző"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Teljes méret"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Kategória:</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Kategória tár:"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Címketár:"
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Szerző archív bejegyzése:"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Éves archímum,"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: image.php:58
+#: template-parts/content/content-page.php:28
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: image.php:62
+msgid "Page"
+msgstr "oldal"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Ugrás a tartalomhoz"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Fő navigáció"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Menü"
+
+#: functions.php:255
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Lábléc"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your footer."
+msgstr "A lábrészben megjelenó widgeteket itt adjuk hozzá."
+
+#: functions.php:134
+msgid "S"
+msgstr "S"
+
+#: functions.php:139
+msgid "Normal"
+msgstr "Normál"
+
+#: functions.php:140
+msgid "M"
+msgstr "m"
+
+#: functions.php:145
+msgid "Large"
+msgstr "Nagy"
+
+#: functions.php:146
+msgid "L"
+msgstr "L"
+
+#: functions.php:151
+msgid "Huge"
+msgstr "Hatalmas"
+
+#: functions.php:152
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:180
+msgid "Secondary"
+msgstr "Másodlagos"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:75
+#: functions.php:175
+msgid "Primary"
+msgstr "Elsődleges"
+
+#: functions.php:76
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Lábléc menü"
+
+#: functions.php:77
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Közösségi hivatkozások menü"
+
+#: functions.php:133
+msgid "Small"
+msgstr "Kicsi"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; bejegyzéshez egy hozzászólás"
+msgstr[1] "&ldquo;%2$s&rdquo; bejegyzéshez %1$s hozzászólás"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Hozzászólás jelenleg nem lehetséges."
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "&ldquo;%1$s&rdquo; bejegyzéshez egy hozzászólás"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Úgy tűnik, hogy itt sajnos nem található semmi. Esetleg megpróbálkozunk egy másik kereséssel?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "A keresett oldal nem található."

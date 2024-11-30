@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T06:15:00+00:00\n"
+"PO-Revision-Date: 2024-03-13 14:39:40+0000\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:190
+msgid "Background"
+msgstr "背景"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "繼續閱讀 %s"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "購物車"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:220
+msgid "View your shopping cart"
+msgstr "查看您的購物車"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 個品項"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "繼續閱讀<span class=\"screen-reader-text\">「%s」</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "發佈者：%s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "檢視更多文章"
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合搜尋條件的結果，請以不同的關鍵字重試。"
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合條件的內容。請使用搜尋功能，應會有所幫助。"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "新文章"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "下一篇文章："
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "舊文章"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "下一篇文章："
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "精選"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:42
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編輯 <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "較新的文章"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "較舊的文章"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "搜尋結果："
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">在《%s》</span>發佈留言"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "發表於"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "標籤："
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "每月彙整: "
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "每日彙整: "
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "「%s」彙整："
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "文章彙整："
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "作者："
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "完整大小"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "分類彙整："
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "標籤彙整："
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "作者彙整："
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "年份彙整: "
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">發布於</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:58
+#: template-parts/content/content-page.php:28
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "頁面："
+
+#: image.php:62
+msgid "Page"
+msgstr "頁面"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "直接觀看文章"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "主要選單列"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "選單"
+
+#: functions.php:255
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "頁尾"
+
+#: functions.php:257
+msgid "Add widgets here to appear in your footer."
+msgstr "在這裡新增小工具以顯示於網站頁尾。"
+
+#: functions.php:134
+msgid "S"
+msgstr "S"
+
+#: functions.php:139
+msgid "Normal"
+msgstr "一般"
+
+#: functions.php:140
+msgid "M"
+msgstr "M"
+
+#: functions.php:145
+msgid "Large"
+msgstr "大"
+
+#: functions.php:146
+msgid "L"
+msgstr "L"
+
+#: functions.php:151
+msgid "Huge"
+msgstr "極大"
+
+#: functions.php:152
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:180
+msgid "Secondary"
+msgstr "次要"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "http://tw.wordpress.org/"
+
+#: functions.php:75
+#: functions.php:175
+msgid "Primary"
+msgstr "主要"
+
+#: functions.php:76
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "底部選單"
+
+#: functions.php:77
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "社群連結選單"
+
+#: functions.php:133
+msgid "Small"
+msgstr "小"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "對「%2$s」的%1$s則回應"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "評論已關閉。"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "在這裡找不到符合條件的項目，請使用搜尋功能進行查詢。"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到該頁面。"
